@@ -1,8 +1,9 @@
 # 💫 About Me:
-
+ I am a student .....
 
 
 ## 🌐 Socials:
+
  
 
 # 💻 Tech Stack:
