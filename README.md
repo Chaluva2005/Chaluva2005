@@ -3,7 +3,7 @@
 
 
 ## 🌐 Social:
- instagram chaluva__14
+
 
 
 # 💻 Tech Stack:
